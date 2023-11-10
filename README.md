@@ -8,6 +8,7 @@ control which alphabet (eg. R) we want to generate, and style is chosen randomly
 • Output: A 36x36 image rendering the given character in a style controlled by the noise vector.
 ## Dataset
 The dataset consists of 26 english alphabets (A-Z) in 66 different fonts
+https://drive.google.com/uc?id=1Ef5-NAV1MAQ73vxN9BHyHAXi0UK6TDSy
 
 ## Assessment Metric
 ### 1. Style variability:
