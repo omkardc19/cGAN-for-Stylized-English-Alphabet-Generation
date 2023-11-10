@@ -9,4 +9,10 @@ control which alphabet (eg. R) we want to generate, and style is chosen randomly
 ## Dataset
 The dataset consists of 26 english alphabets (A-Z) in 66 different fonts
 
-
+## Assessment Metric
+### 1. Style variability:
+For a fixed character, different noise vectors should generate different output styles
+### 2. Character consistency:
+The output image should correspond to the same input character irrespective of the noise vector
+### 3. Style consistency:
+For a fixed noise vector, all characters generated should have the same style
